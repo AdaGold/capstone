@@ -1,4 +1,4 @@
-# CX Capstone Details
+# C6 Brackets Capstone Details
 
 ## Upcoming Deliverables
 1. [Preliminary Concept](/concept.md)--Due Monday 12/19
