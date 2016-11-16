@@ -5,8 +5,8 @@
 1. [Product Plan](/product-plan.md)--Due <<Insert Date Here>>
 
 ## [Capstone Groups](/groups.md)
-**PM: Instructor 1**
+**PM: Dan**
 TBD
 
-**PM: Instructor 2**
+**PM: Kari**
 TBD
