@@ -16,12 +16,8 @@ You've been assigned to a three or four person team. For the duration of capston
 - Practice TDD to lead the development process
 
 ### Technical Guidelines
-- Cover the requirements for technical [features](features.md)
-- Host the application using a VPS such as Amazon EC2
-- Configure DNS with custom domain
-- Expectations for code quality:
-    - 90% or greater test coverage (backend code)
-    - B- or greater score on Code Climate
+- Review the information on [technology stacks](tech-stacks.md)
+- Decide on a technology stack that meets the [Capstone requirements](tech-stacks.md#capstone-requirements)
 
 ### Deliverables
 
