@@ -92,7 +92,7 @@ The PotBS Account Management Site Tech Stack:
 ## Choosing Technologies For Your Capstone
 For your capstone project you will need to choose a collection of technologies that will comprise the tech stack for your application. The specific technologies you choose will depend upon the goals and requirements of your project plan, as well as your personal interests as a developer.
 
-When choosing a set of technologies it can be helpful to think of it like putting together a puzzle. Each technology fits into a particular location in the stack, and it usually integrates with one or more other technologies in the stack.Think about what technologies have been used in your previous projects and how each of them have interacted with the other technologies.
+When choosing a set of technologies it can be helpful to think of it like putting together a puzzle. Each technology fits into a particular location in the stack, and it usually integrates with one or more other technologies in the stack. Think about what technologies have been used in your previous projects and how each of them have interacted with the other technologies.
 
 If you had to extend one of these projects, for example bEtsy, what kind of technology would you use? Where would it fit in the stack, and what other technologies would it integrate with? These kinds of questions usually lead developers to conduct research on what specific technologies would be most applicable based on the technologies that are already in the stack.
 
