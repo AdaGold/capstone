@@ -59,7 +59,7 @@ For example, if the application allows users to pay for items or services (such 
   * [Content Management System](https://en.wikipedia.org/wiki/Content_management_system)
 
 ### Example Tech Stack
-To get a better sense of everything comprised in a tech stack, here's an example of one using familiar technologies:
+For a more concrete understanding of how real-world tech stacks work, here is an example of a Rails web application stack in use today. Your capstone projects will not need to use as many technologies as this example has.
 
 The PotBS Account Management Site Tech Stack:
 * Back-end
