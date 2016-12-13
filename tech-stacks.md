@@ -88,3 +88,23 @@ The PotBS Account Management Site Tech Stack:
 * DevOps systems
   * [New Relic](https://newrelic.com/) for real-time error monitoring
   * [Papertrail](https://papertrailapp.com/) for production log collection
+
+## Choosing Technologies For Your Capstone
+For your capstone project you will need to choose a collection of technologies that will comprise the tech stack for your application. The specific technologies you choose will depend upon the goals and requirements of your project plan, as well as your personal interests as a developer.
+
+When choosing a set of technologies it can be helpful to think of it like putting together a puzzle. Each technology fits into a particular location in the stack, and it usually integrates with one or more other technologies in the stack.Think about what technologies have been used in your previous projects and how each of them have interacted with the other technologies.
+
+If you had to extend one of these projects, for example bEtsy, what kind of technology would you use? Where would it fit in the stack, and what other technologies would it integrate with? These kinds of questions usually lead developers to conduct research on what specific technologies would be most applicable based on the technologies that are already in the stack.
+
+### Capstone Requirements
+Regardless of what technologies you choose for your stack, there are some general requirements for your Capstone:
+* You must include at least three **new** technologies, that is technologies that you haven't used in any Ada projects
+  * For example if you create a Ruby on Rails project with PostgreSQL, then you should also include DNS management and Continuous integration if those technologies are new to you.
+* With rare exceptions, your project will likely need to use a custom domain name.
+* Depending on your project requirements you will probably need to use at least one technology from each category:
+  * For a web application project you should definitely have at least one technology from the Back-end, Front-end, and Web infrastructure categories.
+  * For a mobile application project you would probably use the same kind of stack as for a web application, but the Front-end category technologies would include a mobile framework instead of a JavaScript framework.
+  * For an embedded application project things work a bit differently, but it's still likely that your project would benefit from a Back-end technology
+  * All projects can use Code infrastructure tools like continuous integration
+
+**Instructors will verify that your technology stack choices are appropriate.**
