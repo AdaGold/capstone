@@ -27,25 +27,70 @@ You will need to create three presentation slides using Google Slides (details w
 ## Example Tech Stacks
 Below we present four different tech stacks for real-world applications. What we're presenting below is somewhere between the reality of the projects being hosted and an outside observer's hypothesis of what stack they are using. While each of these projects has a core piece that is open source most of them involve some proprietary software and/or hosting, which makes it difficult to say for certain what technologies are being used for that part of the stack.
 
-### 1. [OneBusAway]() for iPhone
+### 1. [OneBusAway](http://onebusaway.org/) for iPhone
 This tech stack includes the following components:
-* [OneBusAway iPhone App]()
+* [OneBusAway iPhone App](https://github.com/OneBusAway/onebusaway-iphone)
   * Swift
-* [OneBusAway REST API]()
-  *
-* [OneBusAway Server]()
-  *
-* [OneBusAway Multi-Region Registry]()
-  *
-* []
-* Transit agency providing static and real-time data
-* Conversion of real-time data into appropriate data format
+  * PromiseKit
+  * Pulley
+* [OneBusAway REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html)
+  * Java
+  * Tomcat
+  * Struts
+  * Hibernate
+  * HSQLDB
+  * Apple Push Notifications
+  * Spring
+  * JUnit
+  * Hessian
 
-### 2. [F8 Conference App]()
+This document on [developing the OneBusAway server](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Developer-Guide) may prove useful in understanding how the REST API's components fit together.
+
+### 2. [F8 Conference App](https://github.com/fbsamples/f8app)
 This tech stack includes the following components:
+* Mobile App
+  * React Native
+  * Relay
+  * Moment
+  * Jest
+  * Art
+* Back-end
+  * Node.js
+  * Express
+  * Parse Server
+  * MongoDB
+  * GraphQL
 
-### 3. [Travis CI]()
+### 3. [Travis CI](https://travis-ci.org/)
+This tech stack includes the following components:
+* Web front-end
+  * Ember
+  * Broccoli
+* API back-end
+  * Ruby
+  * Nginx
+  * Sinatra
+  * Memcached
+  * PostgreSQL
+  * Redis
+  * Customer.io
+  * RabbitMQ
+  * RSpec
+  * Factory Girl
+  * Mocha (Ruby)
 
-### 4. [SoundRedux]()
+Travis CI is split up into several different pieces and [this document](https://github.com/travis-ci/travis-ci#README) has a great overview of them.
 
-
+### 4. [SoundRedux](https://soundredux.io/)
+This tech stack includes the following components:
+* Web front-end
+  * React
+  * Redux
+  * SoundCloud API
+  * Local storage
+  * Babel
+  * Webpack
+  * Mocha (JavaScript)
+  * Nock
+  * Lodash
+  * ESLint
