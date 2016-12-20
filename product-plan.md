@@ -10,9 +10,12 @@ The second deliverable for the capstone is your product plan.
 1. __User Personas__: A summary of your main target user group(s). What are their key characteristics? How do those characteristics factor into project/app/idea?
 1. __Trello Board__:
   - Flesh out the feature set that you created in the conceptual delivery to get started with your Trello board
-1. __Optional__:
-  - Technology selections
-  - Wireframes
+1. __Technology selections__:
+  - Front-end
+  - Back-end
+  - Infrastructure - Deployment or Code
+1. __Wireframes__:
+  - Any format you may like - photos of paper, online tool and/or paper to show your instructors
 
 ## Format
 Since the Product Plan is part of your final deliverable and should be included in your repository, it would be easiest to do this initial draft in a markdown format for easy transferability to GitHub.
