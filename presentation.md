@@ -4,7 +4,8 @@ It should be __no more than 5 minutes__ in length and should have the following 
 
 - What problem does the app solve? Who does it solve it for?
 - What are 1-2 things you learned?
-  - Note: As an example, this is not highlighting "I learned Angular" but rather, "I learned that the best way for me to learn is to try a tutorial out and break everything as a go!"
+  - You should focus on what you learned about programming as an art/craft/profession, not what specific technologies you learned to build the app.
+  - Example: "I learned that the best way for me to learn is to try a tutorial out and break everything as I go!"
 - What are 1-2 major features of the application, demoed from the eyes of a user?
 - Optional: Exciting or interesting technologies you used
 - Optional: Future enhancements
