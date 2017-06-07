@@ -2,7 +2,9 @@
 One of the most exciting and challenging things about the capstone project is learning new technologies to integrate into your project.
 
 ## Technology Stacks
-Real-world projects are composed from a selection of specific technologies that each take care of some piece of the work necessary to have a production-ready application. The full set of technologies that are used in a project is known as the **technology stack** for that project. For your capstone project you'll need to determine what tech stack you should use, based on the needs of your project plan.
+Real-world projects are composed from a selection of specific technologies that each take care of some piece of the work necessary to have a production-ready application. The full set of technologies that are used in a project is known as the **technology stack** for that project.
+
+For your capstone project you'll need to determine what tech stack you should use, based on the needs of your project plan. What we're presenting below covers a wide range of possible technologies that could be involved in large production applications, such as what you may see in your internships. **Your capstone projects will not need to have all of these technologies.**
 
 ### Major Parts of a Web Application Tech Stack
 Every project's goals are different, and as a result its tech stack will be different. However, within the realm of web applications there are several major pieces that virtually every project requires:
@@ -59,35 +61,25 @@ For example, if the application allows users to pay for items or services (such 
   * [Content Management System](https://en.wikipedia.org/wiki/Content_management_system)
 
 ### Example Tech Stack
-For a more concrete understanding of how real-world tech stacks work, here is an example of a Rails web application stack in use today. Your capstone projects will not need to use as many technologies as this example has.
+For a more concrete understanding of how real-world tech stacks work, here is an example of the major technologies used in a previous capstone project:
 
-The PotBS Account Management Site Tech Stack:
+- Study schedule tracking
+  - iOS/Android app (React Native)
+  - Moment.js date/time library
+  - Assignments API (custom)
+    - Express (Node.js)
+    - MongoDB
+Study schedule tracking app (mobile):
 * Back-end
-  * [Ruby on Rails](http://rubyonrails.org/)
-  * [Unicorn](https://bogomips.org/unicorn/) web server
-  * [PostgreSQL](https://www.postgresql.org/) relational database
-  * [Devise](https://github.com/plataformatec/devise) for user management & authentication
-  * [Haml](http://haml.info/) for views (instead of ERB)
+  * [Node.js](https://nodejs.org/)
+  * [Express](https://expressjs.com/) web application server
+  * [MongoDB](https://www.mongodb.com/) database
   * RESTful API
-  * XML API
-* Front-end
-  * [jQuery](https://jquery.com/)
-  * [Foundation](https://foundation.zurb.com/) CSS framework
+* Mobile (iOS/Android) Front-end
+  * [React Native](https://facebook.github.io/react-native/) (based on [React](https://facebook.github.io/react/))
+  * [Moment.js](https://momentjs.com/) date/time library
 * Web infrastructure
-  * [Heroku](https://www.heroku.com/) hosting (back-end)
-  * [Firebase](https://firebase.google.com/) hosting (front-end)
-  * [MaxCDN](https://www.maxcdn.com/) for CDN hosting
-  * [DNSimple](https://dnsimple.com/) for DNS management
-  * SSL certificates purchased from [StartSSL](https://www.startssl.com/)
-* External APIs
-  * Proprietary account service API for PotBS game
-  * [PayPal IPN](https://developer.paypal.com/docs/classic/products/instant-payment-notification/) API
-  * [Mandrill](http://www.mandrill.com/) transaction email service
-* Code infrastructure
-  * [CircleCI](https://circleci.com/) for continuous integration
-* DevOps systems
-  * [New Relic](https://newrelic.com/) for real-time error monitoring
-  * [Papertrail](https://papertrailapp.com/) for production log collection
+  * [Amazon Web Services](https://aws.amazon.com/) hosting (back-end)
 
 ## Choosing Technologies For Your Capstone
 For your capstone project you will need to choose a collection of technologies that will comprise the tech stack for your application. The specific technologies you choose will depend upon the goals and requirements of your project plan, as well as your personal interests as a developer.
