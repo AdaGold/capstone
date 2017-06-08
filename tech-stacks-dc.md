@@ -25,7 +25,11 @@ Once everyone has researched their assigned technologies your group will come to
 You will need to create three presentation slides using Google Slides (details will be provided by your instructor). On your three slides you should present an overview of the tech stack as a whole and also dive into the major technologies being used.
 
 ## Example Tech Stacks
-Below we present four different tech stacks for previous Ada capstone projects. The technology choices listed here are based on the available code from those projects and may not reflect the complete set of technologies that were used. If your assigned tech stack has fewer technologies you should take the opportunity to investigate each technology in more detail. We've selected two mobile applications and two web applications:
+Below we present four different tech stacks for previous Ada capstone projects. The technology choices listed here are based on the available code from those projects and may not reflect the complete set of technologies that were used. If your assigned tech stack has fewer technologies you should take the opportunity to investigate each technology in more detail.
+
+Some of the technologies listed below fill the same role as the languages, libraries, and frameworks that we've learned already at Ada. When you find a technology that represents an alternative to, for example, Ruby you should make sure to compare and contrast it with the technology we've already used.
+
+We've selected two mobile applications and two web applications:
 
 ### 1. Lost animal notices app for iOS
 This tech stack includes the following components:
