@@ -25,72 +25,48 @@ Once everyone has researched their assigned technologies your group will come to
 You will need to create three presentation slides using Google Slides (details will be provided by your instructor). On your three slides you should present an overview of the tech stack as a whole and also dive into the major technologies being used.
 
 ## Example Tech Stacks
-Below we present four different tech stacks for real-world applications. What we're presenting below is somewhere between the reality of the projects being hosted and an outside observer's hypothesis of what stack they are using. While each of these projects has a core piece that is open source most of them involve some proprietary software and/or hosting, which makes it difficult to say for certain what technologies are being used for that part of the stack.
+Below we present four different tech stacks for previous Ada capstone projects. The technology choices listed here are based on the available code from those projects and may not reflect the complete set of technologies that were used. If your assigned tech stack has fewer technologies you should take the opportunity to investigate each technology in more detail.
 
-### 1. [OneBusAway](http://onebusaway.org/) for iPhone
+Some of the technologies listed below fill the same role as the languages, libraries, and frameworks that we've learned already at Ada. When you find a technology that represents an alternative to, for example, Ruby you should make sure to compare and contrast it with the technology we've already used.
+
+We've selected two mobile applications and two web applications:
+
+### 1. iOS native app
 This tech stack includes the following components:
-* [OneBusAway iPhone App](https://github.com/OneBusAway/onebusaway-iphone)
+* Mobile App
   * Swift
-  * PromiseKit
-  * Pulley
-* [OneBusAway REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html)
-  * Java
-  * Tomcat
-  * Struts
-  * Hibernate
-  * HSQLDB
-  * Apple Push Notifications
-  * Spring
-  * JUnit
-  * Hessian
+  * Xcode
+  * Google Maps API
+  * Firebase
 
-This document on [developing the OneBusAway server](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Developer-Guide) may prove useful in understanding how the REST API's components fit together.
-
-### 2. [F8 Conference App](https://github.com/fbsamples/f8app)
+### 2. iOS/Android cross-platform mobile app
 This tech stack includes the following components:
 * Mobile App
   * React Native
-  * Relay
-  * Moment
+  * Redux for in-app data management
   * Jest
-  * Art
 * Back-end
+  * Ruby on Rails
+  * Web scraping
+  * Nokogiri & HTTParty (for web scraping)
+
+### 3. Django web application
+This tech stack includes the following components:
+* Web front-end
+  * jQuery
+* API back-end
+  * Python
+  * Django
+  * Indeed API
+  * Postgres
+
+### 4. MEAN stack web application
+This tech stack includes the following components:
+* Web front-end
+  * AngularJS
+  * D3 visualization library
+* API back-end
   * Node.js
   * Express
-  * Parse Server
+  * Seattle food inspection database
   * MongoDB
-  * GraphQL
-
-### 3. [Travis CI](https://travis-ci.org/)
-This tech stack includes the following components:
-* Web front-end
-  * Ember
-  * Broccoli
-* API back-end
-  * Ruby
-  * Nginx
-  * Sinatra
-  * Memcached
-  * PostgreSQL
-  * Redis
-  * Customer.io
-  * RabbitMQ
-  * RSpec
-  * Factory Girl
-  * Mocha (Ruby)
-
-Travis CI is split up into several different pieces and [this document](https://github.com/travis-ci/travis-ci#README) has a great overview of them.
-
-### 4. [SoundRedux](https://soundredux.io/)
-This tech stack includes the following components:
-* Web front-end
-  * React
-  * Redux
-  * SoundCloud API
-  * Local storage
-  * Babel
-  * Webpack
-  * Mocha (JavaScript)
-  * Nock
-  * Lodash
-  * ESLint
