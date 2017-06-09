@@ -10,3 +10,5 @@ You should complete this exercise for any ideas that are still in consideration 
 
 ## Format
 Since most of the capstone deliverables will be included in your final repository, please create this document in markdown format.
+
+A template is provided [here.](./capstone-concept-template.md)
