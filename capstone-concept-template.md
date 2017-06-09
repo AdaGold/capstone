@@ -22,6 +22,8 @@ Description of the problem the proposed capstone project would address.
 - Example Technology #3
 - Example Technology #4
 
+## Additional Content, diagrams, wireframes, etc.
+Link in any additional content here.
 
 ## Problem Statement #2
 
@@ -45,6 +47,8 @@ Description of the problem the proposed capstone project would address.
 - Example Technology #3
 - Example Technology #4
 
+## Additional Content, diagrams, wireframes, etc.
+Link in any additional content here.
 
 ## Problem Statement #3
 
@@ -67,4 +71,7 @@ Description of the problem the proposed capstone project would address.
 - Example Technology #2
 - Example Technology #3
 - Example Technology #4
+
+## Additional Content, diagrams, wireframes, etc.
+Link in any additional content here.
 
