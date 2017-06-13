@@ -42,17 +42,3 @@ Link to wireframe
 1.  Another App feature
 	- More details in sub-bullets
 	
-### Potential Additional Features
-
-1.  More features
-
-## Draft Technology Choices
-
-- Example Technology #1
-- Example Technology #2
-- Example Technology #3
-- Example Technology #4
-
-## Additional Content, diagrams, wireframes, etc.
-Link in any additional content here.
-
