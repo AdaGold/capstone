@@ -1,8 +1,12 @@
-# Capstone Concept Template Document
+# Product Plan Template Document
 
-Copy and paste this document into a gist and then edit it to create your capstone concept document.  This document is an example with the minimum content required for your capstone concept deliverable.  You are free to add further content to help you arrive at your capstone.
+Copy and paste this document into a gist and then edit it to create your product plan document.  This document is an example with the minimum content required for your product plan deliverable.  You are free to add further content to help you arrive at your capstone.
 
-# Capstone Concept - AUTHOR NAME
+# Product Plan - AUTHOR NAME
+
+## Learning Goals
+- Goal 1
+- Goal 2
 
 ## Problem Statement
 
@@ -30,7 +34,7 @@ Link to your trello board.
 - Front-end Technology
 - Infrastructure
 	- How will you deploy and host your app?
-	
+
 ## Wireframes
 
 Link to wireframe
@@ -41,4 +45,3 @@ Link to wireframe
 	- A bullet or two describing the feature in more detail
 1.  Another App feature
 	- More details in sub-bullets
-	
