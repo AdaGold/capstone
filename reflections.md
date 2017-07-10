@@ -5,10 +5,10 @@ We're providing a set of suggested reflection prompts / questions that you can u
 
 ## Reflection prompts
 1. What did you learn about:
-  * Researching new technologies and investigating their applicability to a specific project?
-  * Building a software system comprised of multiple interacting pieces?
-  * Prioritization when building a proof of concept or MVP?
-  * Debugging unfamiliar technologies and complex interactions between components?
+    * Researching new technologies and investigating their applicability to a specific project?
+    * Building a software system comprised of multiple interacting pieces?
+    * Prioritization when building a proof of concept or MVP?
+    * Debugging unfamiliar technologies and complex interactions between components?
 
 1. What aspects of the project were more difficult than anticipated?
 1. What aspects were less difficult than anticipated?
