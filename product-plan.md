@@ -22,7 +22,7 @@ The second deliverable for the capstone is your product plan.
     - Infrastructure - Deployment or Code
   
 1. __Wireframes__:
-  - Any format you may like - photos of paper, online tool and/or paper to show your instructors
+    - Any format you may like - photos of paper, online tool and/or paper to show your instructors
 
 ## Format
 Since the Product Plan is part of your final deliverable and should be included in your repository, it would be easiest to do this initial draft in a markdown format for easy transferability to GitHub.
