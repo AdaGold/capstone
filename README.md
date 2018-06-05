@@ -41,12 +41,12 @@ Refer to your class's schedule for due dates
 - [Write up a Project Concept Document](concept.md) for each project concept idea you are considering. Submit via an instructor-provided spreadsheet
 - For the project concept you are going with, [write up a Product Plan](product-plan.md) as your plan. Submit via an instructor-provided spreadsheet
 
-#### Weekly
-- Demo of your progress to your capstone teams every Friday
+#### Weekly:
+- Demo your progress to your capstone teams every Friday
   - Your PM may attend these demos
 - Schedule and attend a 30 minute one-on-one with your PM
 
-#### Daily
+#### Daily:
 - Complete the [daily stand up form]() __everyday Monday through Friday before 12pm, and once over the weekend__
 
 ## Final Delivery
