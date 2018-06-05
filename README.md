@@ -7,7 +7,7 @@ The Capstone Project is the largest undertaking you'll experience in the Ada cla
 - Complete a product lifecycle from conception to delivery
 - Utilize agile practices learned to assist in project completion
 
-## What's in this repo
+## What's in This Repo
 
 This repo contains the following things:
 
@@ -34,29 +34,30 @@ Other information we've compiled:
 - [Recommended Reflection Exercise](reflections.md)
 
 
-### Deliverables
+## Things You Need to Do:
 
-#### Once
-- [Project Concept](concept.md)
-- [Product Plan](product-plan.md)
+#### Submit Once:
+Refer to your class's schedule for due dates
+- [Write up a Project Concept Document](concept.md) for each project concept idea you are considering. Submit via an instructor-provided spreadsheet
+- For the project concept you are going with, [write up a Product Plan](product-plan.md) as your plan. Submit via an instructor-provided spreadsheet
 
 #### Weekly
-- A demo of your progress to your capstone teams every Friday
-- Your PM may attend these demos
-- A half-hour one-on-one with your PM
+- Demo of your progress to your capstone teams every Friday
+  - Your PM may attend these demos
+- Schedule and attend a 30 minute one-on-one with your PM
 
 #### Daily
-- In lieu of formal standups with your PMs, you will complete this [daily checkin form]() __everyday Monday through Friday before 12pm, and once over the weekend.__ This is a non-negotiable requirement.
+- Complete the [daily stand up form]() __everyday Monday through Friday before 12pm, and once over the weekend__
 
-### Final Delivery
+## Final Delivery
 The Capstone Project consists of the following components:
 - Completed application, live on the web
-- The source code of your project on Github, with:
+- The source code of your project on GitHub, with:
   - Clear documentation on how to setup/install your project
   - Any third-party dependencies or configuration required
   - A link to your Trello board
   - A link to your Product Plan
-- If your capstone includes a hardware component, you must complete these additional requirements:
+- If your capstone includes a hardware component, you must complete these additional requirements and put them on your GitHub repo:
   - Parts list, with links, for the device(s)
   - A markdown document with step-by-step instructions for assembling, verifying, and integrating the device(s) with your project
 - [Product Plan](product-plan.md): problem statement, user persona(s), market research
