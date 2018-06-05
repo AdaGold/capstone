@@ -1,11 +1,38 @@
 # Capstone Project
 The Capstone Project is the largest undertaking you'll experience in the Ada classroom. Not only is it a month long, but you will be your own product owner. It will be up to you to decide (with input from instructors, mentors, and TAs) what gets built when (and how).
 
-### Learning Goals
+## Learning Goals
 - Demonstrate self-direction, time management, and independent learning
 - Learn and implement new technologies
 - Complete a product lifecycle from conception to delivery
 - Utilize agile practices learned to assist in project completion
+
+## What's in this repo
+
+This repo contains the following things:
+
+Ada's collective wisdom gathered:
+- [General Advice](advice.md): a list of advice and wisdom gained over the last several years
+- [Advice for Brainstorming](brainstorming.md)
+
+Class-specific schedules for important deadlines and PM assignments
+- [Class A](a-class-details.md)
+- [Class B](b-class-details.md)
+
+Required Pre-Capstone Material:
+- [Capstone Concept Requirements](concept.md)
+- [Product Plan Requirements](product-plan.md)
+- [Picking a tech stack](tech-stacks.md)
+  - In class, we will do the [Tech Stacks Divide & Conquer Activity](tech-stacks-dc.md) together
+
+Required Capstone Material:
+- [Group Accountability](groups.md)
+- [Final Presentations Requirements](presentation.md)
+
+Other information we've compiled:
+- [What lectures will the instructors give during capstone?](lectures.md)
+- [Recommended Reflection Exercise](reflections.md)
+
 
 ### Deliverables
 
@@ -19,7 +46,7 @@ The Capstone Project is the largest undertaking you'll experience in the Ada cla
 - A half-hour one-on-one with your PM
 
 #### Daily
-- In lieu of formal standups with your PMs, you will complete this [daily checkin form](https://goo.gl/forms/edpg44h0ig3FZlQg1) __before noon Monday through Friday, and once over the weekend.__ This is a non-negotiable requirement.
+- In lieu of formal standups with your PMs, you will complete this [daily checkin form]() __everyday Monday through Friday before 12pm, and once over the weekend.__ This is a non-negotiable requirement.
 
 ### Final Delivery
 The Capstone Project consists of the following components:
