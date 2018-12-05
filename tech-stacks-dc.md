@@ -1,9 +1,9 @@
 # Tech Stacks Read & Report
-To help you get more experience with the idea of a tech stack and how different pieces of technology are selected and fit together to create a cohesive whole for a given project, we'll be doing a Divide & Conquer exercise.
+To help you get more experience with the idea of a tech stack and how different pieces of technology are selected and fit together to create a cohesive whole for a given project, we'll be doing a Read & Report exercise.
 
 ## Instructions
 ### Research
-In this Divide & Conquer exercise you will collaborate with your group to assign one or two particular technologies from the stack to each group member. Afterwards everyone will research their assigned technologies and try to learn the following:
+In this Read & Report exercise you will collaborate with your group to assign one or two particular technologies from the stack to each group member. Afterwards everyone will research their assigned technologies and try to learn the following:
 
 * What role does the technology play in a tech stack?
 * What interface does the technology present to other technologies that will interact with it?
