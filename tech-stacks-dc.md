@@ -1,4 +1,4 @@
-# Tech Stacks Divide & Conquer
+# Tech Stacks Read & Report
 To help you get more experience with the idea of a tech stack and how different pieces of technology are selected and fit together to create a cohesive whole for a given project, we'll be doing a Divide & Conquer exercise.
 
 ## Instructions
