@@ -25,7 +25,6 @@ Every project's goals are different, and as a result its tech stack will be diff
   * DNS hosting/management
   * SSL certificates
 * Code infrastructure
-  * Continuous Integration
   * Code quality/linting tools
 * DevOps systems
   * Provisioning
@@ -91,12 +90,11 @@ If you had to extend one of these projects, for example bEtsy, what kind of tech
 ### Capstone Requirements
 Regardless of what technologies you choose for your stack, there are some general requirements for your Capstone:
 * You must include at least three **new** technologies, that is technologies that you haven't used in any Ada projects
-  * For example if you create a Ruby on Rails project with PostgreSQL, then you should also include DNS management and Continuous integration if those technologies are new to you.
+  * For example if you create a Ruby on Rails project with PostgreSQL, then you should also include DNS management if that is new to you.
 * With rare exceptions, your project will likely need to use a custom domain name.
 * Depending on your project requirements you will probably need to use at least one technology from each category:
   * For a web application project you should definitely have at least one technology from the Back-end, Front-end, and Web infrastructure categories.
   * For a mobile application project you would probably use the same kind of stack as for a web application, but the Front-end category technologies would include a mobile framework instead of a JavaScript framework.
   * For an embedded application project things work a bit differently, but it's still likely that your project would benefit from a Back-end technology
-  * All projects can use Code infrastructure tools like continuous integration
 
 **Instructors will verify that your technology stack choices are appropriate.**
