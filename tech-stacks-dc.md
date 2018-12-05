@@ -42,7 +42,7 @@ This tech stack includes the following components:
 ### 2. iOS/Android cross-platform mobile app
 This tech stack includes the following components:
 * Mobile App
-  * React Native
+  * Flutter or React Native
   * Redux for in-app data management
   * Jest
 * Back-end
