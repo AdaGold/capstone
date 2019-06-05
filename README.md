@@ -15,15 +15,14 @@ Ada's collective wisdom gathered:
 - [General Advice](advice.md): a list of advice and wisdom gained over the last several years
 - [Advice for Brainstorming](brainstorming.md)
 
-Class-specific schedules for important deadlines and PM assignments
-- [Class A](a-class-details.md)
-- [Class B](b-class-details.md)
+Bulliten board for schedules, important deadlines and PM assignments
+- [Check Here](a-class-details.md)
 
 Required Pre-Capstone Material:
 - [Capstone Concept Requirements](concept.md)
 - [Product Plan Requirements](product-plan.md)
 - [Picking a tech stack](tech-stacks.md)
-  - In class, we will do the [Tech Stacks Divide & Conquer Activity](tech-stacks-dc.md) together
+  - In class, we will do the [Tech Stacks Research Activity](tech-stacks-dc.md) together
 
 Required Capstone Material:
 - [Group Accountability](groups.md)
