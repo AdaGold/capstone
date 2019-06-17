@@ -31,7 +31,7 @@ Some of the technologies listed below fill the same role as the languages, libra
 
 We've selected two mobile applications and two web applications:
 
-### 1. iOS native app
+### A. iOS native app
 This tech stack includes the following components:
 * Mobile App
   * Swift
@@ -39,7 +39,7 @@ This tech stack includes the following components:
   * Google Maps API
   * Firebase
 
-### 2. iOS/Android cross-platform mobile app
+### B. iOS/Android cross-platform mobile app
 This tech stack includes the following components:
 * Mobile App
   * Flutter or React Native
@@ -50,7 +50,7 @@ This tech stack includes the following components:
   * Web scraping
   * Nokogiri & HTTParty (for web scraping)
 
-### 3. Django web application
+### C. Django web application
 This tech stack includes the following components:
 * Web front-end
   * jQuery
@@ -60,7 +60,7 @@ This tech stack includes the following components:
   * Indeed API
   * Postgres
 
-### 4. MEAN stack web application
+### D. MEAN stack web application
 This tech stack includes the following components:
 * Web front-end
   * AngularJS
