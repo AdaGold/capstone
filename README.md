@@ -31,6 +31,7 @@ Required Capstone Material:
 Other information we've compiled:
 - [What lectures will the instructors give during capstone?](lectures.md)
 - [Recommended Reflection Exercise](reflections.md)
+- [Useful tutorial sites](tutorials-sites.md)
 
 
 ## Things You Need to Do:
@@ -73,3 +74,4 @@ You'll be assigned to a three or four person team. For the duration of capstone,
 ### Technical Guidelines
 - Review the information on [technology stacks](tech-stacks.md)
 - Decide on a technology stack that meets the [Capstone requirements](tech-stacks.md#capstone-requirements)
+
