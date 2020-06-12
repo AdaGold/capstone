@@ -36,6 +36,59 @@ Other information we've compiled:
 
 ## Things You Need to Do:
 
+bEtsy as an example Capstone Idea:
+
+I want users to be able to use an online e-commerce store to sell products they have. There will be two kinds of users: guest users and merchants.
+
+Merchants must create an account to list products. They can:
+  - set prices
+  - set quantity
+  - manage shipments
+  - manage products
+  - view a dashboard of their orders
+
+The front-end will be in React, the back-end API will be in Rails.
+
+Users will log on using OAuth.
+
+
+### Pre-Capstone: Determine your Capstone Concept and Technologies
+
+Your goal here is to determine your capstone concept and its tech stack. You must do that by filling out this form by this day.
+
+- Resource for brainstorming ideas
+- Resource for brainstorming tech stacks
+
+You will
+have a 1:1 conversation with someone over the next two weeks
+In it you should bring 1-3 ideas to the 1:1. (No more than 3!)
+
+<!-- This should definitely be editable -->
+The ideas should be in this template:
+<!-- Note: This template is a conversation starter! -->
+  - vaguely my idea
+  - vaguely the tech stack
+  - What gets you excited?
+
+
+Once you feel that your capstone concept is firm, submit your capstone concept with this form by this day.
+
+AirTable Form:
+
+- Tell us what you would learn from this project?
+
+### Break Week: Create Your Capstone Plan & Begin Tutorials
+
+Three goals:
+
+- Begin the tutorials of some of your technologies (~8 hours)
+- Create wireframes for your product if this is applicable
+- Break up your project into tasks, and organize those tasks into waves
+
+### Capstone:
+
+
+
 #### Submit Once:
 Refer to your class's schedule for due dates
 - [Write up a Project Concept Document](concept.md) for each project concept idea you are considering. Submit via an instructor-provided spreadsheet

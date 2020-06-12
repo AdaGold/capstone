@@ -1,3 +1,5 @@
+# Determining Your Technology Stack
+
 # Capstone Technology Features
 One of the most exciting and challenging things about the capstone project is learning new technologies to integrate into your project.
 
