@@ -12,15 +12,6 @@ Copy and paste this document into a [gist](https://gist.github.com/) and then ed
 
 Description of the problem the proposed capstone project will address.
 
-
-## Market Research
-
-- Competitor apps
-
-- Shortcomings of the competition
-
-- My product is different because...
-
 ## Target Audience
 
 My app targets <something> who are characterized by <something else>
