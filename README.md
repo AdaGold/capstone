@@ -22,7 +22,6 @@ Required Pre-Capstone Material:
 
 Required Capstone Material:
 - [Group Accountability](groups.md)
-- [Final Presentations Requirements](presentation.md)
 
 Other information we've compiled:
 - What lectures will the instructors give during capstone? *TODO*
@@ -99,7 +98,7 @@ The Capstone Project consists of the following components:
 - If your capstone includes a hardware component, you must complete these additional requirements and put them on your GitHub repo:
   - Parts list, with links, for the device(s)
   - A markdown document with step-by-step instructions for assembling, verifying, and integrating the device(s) with your project
-- [Project Presentation](presentation.md), a demo of the application and pertinent information about your project
+- Project Presentation, a demo of the application and pertinent information about your project
 
 ### Accountability Teams
 You'll be assigned to a three or four person team. For the duration of capstone, your team members will serve as your sounding board, rubber ducks, and first-responders for your project. You are expected to be responsive to requests for help from your team (within reason), and to utilize the expertise of your teammates when you need help.
