@@ -83,6 +83,10 @@ Three goals:
 - Demo your progress to your capstone teams every Friday
   - Your PM may attend these demos
 - Schedule and attend a 30 minute one-on-one with your PM
+  - The 1st week's one-on-one, you can expect your PM will talk with you about the following:
+    1. Look through your Trello Sprint board with you. Your PM can give guidance about any best-practices you might benefit from following and generally any changes that could be made so the board serves you better.
+    1. Talk through your intended timeline and due dates you've set for yourself. Your PM can give helpful input about how realistic the timeline might or might now be.
+  - The following weeks' one-on-ones, you can expect your PM will check-in with you about how you're tracking against the timeline you setup. Your PM is there to help you navigate being behind and strategize which things could be deprioritized to make your timeline more realistic. 
 
 ### Daily:
 - Complete the [daily stand up form]() __everyday Monday through Friday before 12pm, and once over the weekend__
@@ -110,4 +114,3 @@ You'll be assigned to a three or four person team. For the duration of capstone,
 
 ### Technical Guidelines
 - Review the information on [technology stacks](tech-stacks.md)
-
