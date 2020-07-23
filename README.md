@@ -9,7 +9,7 @@ The Capstone Project is the largest undertaking you'll experience in the Ada cla
 
 ## What's in This Repo
 
-This repo contains the following things:
+There's more in this repo than this README. We welcome you to explore all the files! Among other things, this repo contains:
 
 Ada's collective wisdom gathered:
 - [General Advice](advice.md): a list of advice and wisdom gained over the last several years
@@ -27,6 +27,19 @@ Other information we've compiled:
 - What lectures will the instructors give during capstone? *TODO*
 - [Recommended Reflection Exercise](reflections.md)
 - [Useful tutorial sites](tutorials-sites.md)
+
+## Capstone Requirements
+The requirements for capstone are intentionally the most open-ended and vague you have received for a project. First and foremost, this project is for you! If there is one goal to hold onto throughout the process of capstone, it is: **Your capstone should be something you will be proud to show off and something you will get to learn a lot from**. (Maybe that's two goals, but still short enough to remember, yeah?)
+
+For the sake of formalizing the ambiguity, so that you can know that your capstone is on track to "meet the requirements", here is a short list of requirements:
+
+- Student maintains communication with staff throughout capstone
+- There is a code base for all relevant parts of the project on GitHub that the assigned PM (instructor) has access to
+- The project represents learning new technology in some way
+- Student presents their Capstone project to an audience
+- If relevant, the project is deployed on the internet
+  - A couple examples of projects where this isn't relevant are mobile app projects that don't have a backend and hardware projects. There are of course many other examples. If you're uncertain whether deployment is a relevant requirement for your project, we welcome you to check-in with an instructor!
+
 
 # Things You Need to Do
 
